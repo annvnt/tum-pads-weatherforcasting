@@ -1,4 +1,10 @@
 # pip install -r requirements.txt
 
-pandas
-datasets
+# Data
+pandas==2.3.0
+datasets==3.6.0
+
+# Visualization
+matplotlib==3.10.3
+seaborn==0.13.2
+# pygwalker==0.4.9.15 ## having installment errors
